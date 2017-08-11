@@ -38,7 +38,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>Social-Eyez</h2>
-				<p>A speculative design project that explores the possibilities and theoretical applications of augmented reality (AR) in a projected future in which people continue to adapt to an ever-increasing influx of digital information, at the expense of their long-term memory.</p>
+				<p>A speculative design project that explores the possibilities and theoretical applications of augmented reality (AR) in a projected future where people continue to adapt to an ever-increasing influx of digital information, at the expense of their long-term memory.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
