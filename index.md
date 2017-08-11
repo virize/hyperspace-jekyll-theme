@@ -25,8 +25,6 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<h1>Jennifer Hiew</h1>
 		<p>A creative and innovative 4th year SIAT student at SFU's School of Interactive Arts and Technology with a background 		in graphic design and illustration. Enthusiastic about learning and designing meaningful visuals and interactions to 			create pleasurable user experiences.</p>
-		<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -36,11 +34,11 @@ title: Hyperspace by HTML5 UP
 <!-- One -->
 <section id="one" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+		<a href="#" class="image"><img src="images/SocialEyez.png" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Social-Eyez</h2>
-				<p>A speculative design project that explores the possibilities and theoretical applications of augmented reality (AR) in a projected future where people's minds will continue to adapt to the presence of digital overload in order to support a greater influx of data, at the cost of their ability to process this information into long term memory.</p>
+				<p>A speculative design project that explores the possibilities and theoretical applications of augmented reality (AR) in a projected future in which people continue to adapt to an ever-increasing influx of digital information, at the expense of their long-term memory.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
