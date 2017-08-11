@@ -8,10 +8,10 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<nav>
 			<ul>
-				<li><a href="#intro">Welcome</a></li>
-				<li><a href="#one">Who we are</a></li>
-				<li><a href="#two">What we do</a></li>
-				<li><a href="#three">Get in touch</a></li>
+				<li><a href="#intro">About</a></li>
+				<li><a href="#one">Projects</a></li>
+				<li><a href="#two">Illustrations</a></li>
+				<li><a href="#three">Contact</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -23,7 +23,8 @@ title: Hyperspace by HTML5 UP
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
-		<h1>Hyperspace</h1>
+		<h1>Jennifer Hiew</h1>
+		<p>A creative and innovative 4th year SIAT student at SFU's School of Interactive Arts and Technology with a background 		in graphic design and illustration. Enthusiastic about learning and designing meaningful visuals and interactions to 			create pleasurable user experiences.</p>
 		<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
 		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
 		<ul class="actions">
@@ -38,8 +39,8 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Sed ipsum dolor</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Social-Eyez</h2>
+				<p>A speculative design project that explores the possibilities and theoretical applications of augmented reality (AR) in a projected future where people's minds will continue to adapt to the presence of digital overload in order to support a greater influx of data, at the cost of their ability to process this information into long term memory.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
