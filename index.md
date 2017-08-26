@@ -76,13 +76,13 @@ title: Hyperspace by HTML5 UP
 <section id="two" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Illustrations</h2>
-			<div class="box alt">
-				<div class="row uniform">
-					<div class="4u"><span class="image fit"><a href="images/pic01.jpg"><img src="images/pic01.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><a href="images/SocialEyez.png"><img src="images/SocialEyez.png" alt="" /></span></div>
-					<div class="4u$"><span class="image fit"><a href="images/pic03.jpg"><img src="images/pic03.jpg" alt="" /></span></div>
-				</div>
-			</div>
+		<div class="row">
+			<article class="6u 12u$(xsmall) work-item">
+				<a href="images/pic01.jpg" class="image fit thumb"><img src="images/pic01.jpg" alt="" /></a>
+				<h3>Magna sed consequat tempus</h3>
+				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+			</article>
+		</div>
 		<ul class="actions">
 			<li><a href="#" class="button">View more</a></li>
 		</ul>
