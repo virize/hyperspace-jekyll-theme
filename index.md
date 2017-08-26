@@ -78,9 +78,9 @@ title: Hyperspace by HTML5 UP
 		<h2>Illustrations</h2>
 			<div class="box alt">
 				<div class="row uniform">
-					<div class="4u"><span class="image fit"><a href="images/pic01.jpg" data-lightbox="pic01"><img src="images/pic01.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-					<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><a href="images/SocialEyez.png" data-lightbox="test"><img src="images/SocialEyez.png" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><a href="images/pic02.jpg" data-lightbox="test"><img src="images/pic02.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><a href="images/pic03.jpg" data-lightbox="test"><img src="images/pic03.jpg" alt="" /></span></div>
 				</div>
 			</div>
 		<ul class="actions">
