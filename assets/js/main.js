@@ -218,7 +218,7 @@
 					selector: '.work-item a.image',
 					usePopupCaption: true,
 					usePopupDefaultStyling: false,
-					usePopupEasyClose: true,
+					usePopupEasyClose: false,
 					usePopupNav: true,
 					windowMargin: (skel.breakpoint('small').active ? 0 : 50)
 				});
