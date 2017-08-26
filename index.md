@@ -75,14 +75,16 @@ title: Hyperspace by HTML5 UP
 <!-- WIP ILLUSTRATIONS SECTION -->
 <section id="two" class="wrapper style3 fade-up">
 	<section>
-	<h2>Illustrations</h2>
-		<div class="box alt">
-			<div class="row uniform">
-				<div class="4u"><span class="image fit"><data-lightbox="pic01"><img src="images/pic01.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+	<div class="inner">
+		<h2>Illustrations</h2>
+			<div class="box alt">
+				<div class="row uniform">
+					<div class="4u"><span class="image fit"><a href="images/pic01.jpg" data-lightbox="pic01"><img src="images/pic01.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+				</div>
 			</div>
-		</div>
+	</div>
 	</section>
 </section>
 
