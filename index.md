@@ -80,7 +80,7 @@ title: Hyperspace by HTML5 UP
 				<div class="row uniform">
 					<div class="4u"><span class="image fit"><a href="images/pic01.jpg" data-lightbox="pic01"><img src="images/pic01.jpg" alt="" /></span></div>
 					<div class="4u"><span class="image fit"><a href="images/pic02.jpg" data-lightbox="pic02"><img src="images/pic02.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><a href="images/pic03.jpg" data-lightbox="pic03"><img src="images/pic03.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><a href="images/pic03.jpg" data-lightbox="pic03"><img src="images/pic03.jpg" alt="" /></span></div>
 				</div>
 			</div>
 		<ul class="actions">
