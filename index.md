@@ -79,8 +79,6 @@ title: Hyperspace by HTML5 UP
 		<div class="row">
 			<article class="4u 12u$(xsmall) work-item">
 				<a href="images/SocialEyez.png" class="image fit thumb"><img src="images/pic01.jpg" alt="" /></a>
-				
-				
 			</article>
 		</div>
 		<ul class="actions">
