@@ -79,7 +79,7 @@ title: Hyperspace by HTML5 UP
 			<div class="box alt">
 				<div class="row uniform">
 					<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><img src="SocialEyez.png" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="images/SocialEyez.png" alt="" /></span></div>
 					<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 				</div>
 			</div>
