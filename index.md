@@ -78,7 +78,7 @@ title: Hyperspace by HTML5 UP
 		<h2>Illustrations</h2>
 		<div class="row">
 			<article class="4u 12u$(xsmall) work-item">
-				<a href="images/pic01.jpg" class="image fit thumb"><img src="SocialEyez.png" alt="" /></a>
+				<a href="images/pic01.jpg" class="image fit thumb"><img src="images/SocialEyez.png" alt="" /></a>
 				<h3>Magna sed consequat tempus</h3>
 				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 			</article>
