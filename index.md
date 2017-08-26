@@ -72,29 +72,7 @@ title: Hyperspace by HTML5 UP
 </section>
 
 
-<!-- Image (delete if fucked up) -->
-<section id="two" class="wrapper style3 fade-up">
-	<div class="inner">
-		<h2>Image</h2>
-		<div class="box alt">
-			<div class="row uniform">
-				<div class="4u"><span class="image fit"><a href="images/pic01.jpg" data-lightbox="pic01"><img src="images/pic01.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-				<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
 <!-- Two -->
-<!-- temp
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>What we do</h2>
@@ -136,8 +114,6 @@ title: Hyperspace by HTML5 UP
 		</ul>
 	</div>
 </section>
-
-temp -->
 
 <!-- Three -->
 <section id="three" class="wrapper style1 fade-up">
