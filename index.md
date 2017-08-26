@@ -73,7 +73,7 @@ title: Hyperspace by HTML5 UP
 
 
 <!-- WIP ILLUSTRATIONS SECTION -->
-<section id="two" class="wrapper style3 fade-up">
+<section id="two" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h2>Illustrations</h2>
 			<div class="box alt">
