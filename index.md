@@ -3,9 +3,6 @@ layout: default
 title: Hyperspace by HTML5 UP
 ---
 
-<div id="gallery">
-
-
 <!-- Sidebar -->
 <section id="sidebar">
 	<div class="inner">
@@ -192,5 +189,3 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</div>
 </section>
-
-</div>
