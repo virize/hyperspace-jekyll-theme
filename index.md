@@ -17,21 +17,6 @@ title: Hyperspace by HTML5 UP
 	</div>
 </section>
 
-<!-- WIP ILLUSTRATIONS SECTION -->
-<section id="two" class="wrapper style1 fade-up">
-	<div class="inner">
-		<h2>Illustrations</h2>
-		<div class="row">
-			<article class="4u 12u$(xsmall) work-item">
-				<a href="images/SocialEyez.png" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
-			</article>
-		</div>
-		<ul class="actions">
-			<li><a href="#" class="button">View more</a></li>
-		</ul>
-	</div>
-</section>
-
 <!-- Wrapper -->
 <div id="wrapper">
 
@@ -84,6 +69,22 @@ title: Hyperspace by HTML5 UP
 			</div>
 		</div>
 	</section>
+</section>
+
+
+<!-- WIP ILLUSTRATIONS SECTION -->
+<section id="two" class="wrapper style1 fade-up">
+	<div class="inner">
+		<h2>Illustrations</h2>
+		<div class="row">
+			<article class="4u 12u$(xsmall) work-item">
+				<a href="images/SocialEyez.png" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
+			</article>
+		</div>
+		<ul class="actions">
+			<li><a href="#" class="button">View more</a></li>
+		</ul>
+	</div>
 </section>
 
 
