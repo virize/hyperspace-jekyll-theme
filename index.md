@@ -73,7 +73,7 @@ title: Hyperspace by HTML5 UP
 
 
 <!-- WIP ILLUSTRATIONS SECTION -->
-<section id="two" class="wrapper style1 fullscreen fade-up">
+<section id="two" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Illustrations</h2>
 			<div class="box alt">
@@ -83,6 +83,9 @@ title: Hyperspace by HTML5 UP
 					<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 				</div>
 			</div>
+		<ul class="actions">
+			<li><a href="#" class="button">View more</a></li>
+		</ul>
 	</div>
 </section>
 
