@@ -212,13 +212,13 @@
 				$('#gallery').poptrox({
 					caption: function($a) { return $a.next('h3').text(); },
 					overlayColor: '#2c2c2c',
-					overlayOpacity: 0.85,
+					overlayOpacity: 0.90,
 					popupCloserText: '',
 					popupLoaderText: '',
 					selector: '.work-item a.image',
 					usePopupCaption: true,
 					usePopupDefaultStyling: false,
-					usePopupEasyClose: false,
+					usePopupEasyClose: true,
 					usePopupNav: true,
 					windowMargin: (skel.breakpoint('small').active ? 0 : 50)
 				});
