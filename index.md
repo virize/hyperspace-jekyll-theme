@@ -78,6 +78,7 @@ title: Hyperspace by HTML5 UP
 
 
 <!-- Two -->
+<div id="gallery">
 <section id="two" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Illustrations</h2>
@@ -91,6 +92,7 @@ title: Hyperspace by HTML5 UP
 		</ul>
 	</div>
 </section>
+</div>
 
 
 
