@@ -14,14 +14,15 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url: 
-facebook_url: https://facebook.com
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+etsy_url: https://www.etsy.com/ca/shop/Virize
+facebook_url: https://www.facebook.com/VirizeArt/
+github_url: https://github.com/virize
+googleplus_url: 
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/jenniferhiew
 pinterest_url: 
 slack_url: 
+tumblr_url: http://virize.tumblr.com
 twitter_url: https://twitter.com/virizeze
 
 # Build settings
@@ -29,7 +30,7 @@ markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username:
 # Add one or more of the following
 facebook:
   app_id: 
