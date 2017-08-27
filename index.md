@@ -123,10 +123,6 @@ title: Hyperspace by HTML5 UP
 						<label for="message">Message</label>
 						<textarea name="message" id="message" placeholder="Enter your message" rows="5"></textarea>
 					</div>
-					<div class="6u 12u$(small)">
-						<input type="checkbox" id="demo-human" name="demo-human">
-						<label for="demo-human">I'm not a robot</label>
-					</div>
 					<ul class="actions">
 						<li><input type="submit" value="Submit!" class="button submit" /></li>
 					</ul>
