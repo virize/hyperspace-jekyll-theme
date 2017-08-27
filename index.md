@@ -109,7 +109,8 @@ title: Hyperspace by HTML5 UP
 		<p>Want to know more or like what you see? Send me a message and I'll get back to you within 24 hours!</p>
 		<div class="split style1">
 			<section>
-				<form method="post" action="#">
+				<form method="post" action="https://formspree.io/{{ site.email }}"
+      method="POST">
 					<div class="field half first">
 						<label for="name">Name</label>
 						<input type="text" name="name" id="name" placeholder="First Last"/>
@@ -123,15 +124,11 @@ title: Hyperspace by HTML5 UP
 						<textarea name="message" id="message" placeholder="Enter your message" rows="5"></textarea>
 					</div>
 					<div class="6u 12u$(small)">
-						<input type="checkbox" id="demo-copy" name="demo-copy">
-						<label for="demo-copy">Email me a copy</label>
-					</div>
-					<div class="6u 12u$(small)">
 						<input type="checkbox" id="demo-human" name="demo-human">
 						<label for="demo-human">I'm not a robot</label>
 					</div>
 					<ul class="actions">
-						<li><a href="https://formspree.io/jenhiew21@gmail.com"><input type="submit" value="Submit!" class="button submit" /></a></li>
+						<li><input type="submit" value="Submit!" class="button submit" /></li>
 					</ul>
 				</form>
 			</section>
