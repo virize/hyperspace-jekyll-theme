@@ -131,7 +131,7 @@ title: Hyperspace by HTML5 UP
 						<label for="demo-human">I'm not a robot</label>
 					</div>
 					<ul class="actions">
-						<li><a href="https://formspree.io/jenhiew21@gmail.com"><input type="submit" value="Send" class="button submit" />Submit!</a></li>
+						<li><a href="https://formspree.io/jenhiew21@gmail.com"><input type="submit" value="Submit!" class="button submit" /></a></li>
 					</ul>
 				</form>
 			</section>
