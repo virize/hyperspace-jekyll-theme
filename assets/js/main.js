@@ -210,7 +210,7 @@
 			$window.on('load', function() {
 
 				$('#gallery').poptrox({
-					caption: function($a) { return $a.next('h3').text(); },
+					//caption: function($a) { return $a.next('h3').text(); },
 					overlayColor: '#2c2c2c',
 					overlayOpacity: 0.85,
 					popupCloserText: '',
