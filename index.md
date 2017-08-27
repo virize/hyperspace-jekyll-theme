@@ -125,16 +125,18 @@ title: Hyperspace by HTML5 UP
 				<ul class="contact">
 					<li>
 						<h3>Resume</h3>
-						<a href="#">Placeholder</a>
+						<a href="https://drive.google.com/file/d/0B1bx4u1-L6aOYkROMDU5bVhWeG8/view">View PDF</a>
 					</li>
 					<li>
 						<h3>Social</h3>
 						<ul class="icons">
-							<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
-							<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://www.etsy.com/ca/shop/Virize" class="fa-etsy"><span class="label">Etsy</span></a></li>
+							<li><a href="https://www.instagram.com/virizeze" class="fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.facebook.com/VirizeArt" class="fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://github.com/virize" class="fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.linkedin.com/in/jenniferhiew" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="http://virize.tumblr.com" class="fa-tumblr"><span class="label">Tumblr</span></a></li>
+							<li><a href="https://twitter.com/virizeze" class="fa-twitter"><span class="label">Twitter</span></a></li>
 						</ul>
 					</li>
 				</ul>
