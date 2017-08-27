@@ -109,7 +109,7 @@ title: Hyperspace by HTML5 UP
 		<p>Want to know more or like what you see? Send me a message and I'll get back to you within 24 hours!</p>
 		<div class="split style1">
 			<section>
-				<form method="post" action="https://formspree.io/{{ site.email }}"
+				<form method="post" action="https://formspree.io/jenhiew21@gmail.com"
       method="POST">
 					<div class="field half first">
 						<label for="name">Name</label>
