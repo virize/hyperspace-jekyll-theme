@@ -116,7 +116,7 @@ title: Hyperspace by HTML5 UP
 					</div>
 					<div class="field half">
 						<label for="email">Email</label>
-						<input type="text" name="email" id="email" placeholder="youremail@example.com"/>
+						<input type="text" name="_replyto" id="email" placeholder="youremail@example.com"/>
 					</div>
 					<div class="field">
 						<label for="message">Message</label>
@@ -126,12 +126,12 @@ title: Hyperspace by HTML5 UP
 						<input type="checkbox" id="demo-copy" name="demo-copy">
 						<label for="demo-copy">Email me a copy</label>
 					</div>
-					<div class="6u$ 12u$(small)">
-						<input type="checkbox" id="demo-human" name="demo-human" checked>
+					<div class="6u 12u$(small)">
+						<input type="checkbox" id="demo-human" name="demo-human">
 						<label for="demo-human">I'm not a robot</label>
 					</div>
 					<ul class="actions">
-						<li><a href="" class="button submit">Submit!</a></li>
+						<li><a href="https://formspree.io/jenhiew21@gmail.com"><input type="submit" value="Send" class="button submit" />Submit!</a></li>
 					</ul>
 				</form>
 			</section>
