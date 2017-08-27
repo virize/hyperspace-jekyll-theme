@@ -2625,6 +2625,7 @@
 			}
 
 			.image.thumb:hover:after {
+				background: #000000;
 				opacity: 0.5;
 			}
 
