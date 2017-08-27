@@ -105,25 +105,33 @@ title: Hyperspace by HTML5 UP
 <!-- Three -->
 <section id="three" class="wrapper style1 fade-up">
 	<div class="inner">
-		<h2>Get in touch</h2>
-		<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+		<h2>Contact</h2>
+		<p>Want to know more or like what you see? Send me a message and I'll get back to you within 24 hours!</p>
 		<div class="split style1">
 			<section>
 				<form method="post" action="#">
 					<div class="field half first">
 						<label for="name">Name</label>
-						<input type="text" name="name" id="name" />
+						<input type="text" name="name" id="name" placeholder="First Last"/>
 					</div>
 					<div class="field half">
 						<label for="email">Email</label>
-						<input type="text" name="email" id="email" />
+						<input type="text" name="email" id="email" placeholder="youremail@example.com"/>
 					</div>
 					<div class="field">
 						<label for="message">Message</label>
-						<textarea name="message" id="message" rows="5"></textarea>
+						<textarea name="message" id="message" placeholder="Enter your message" rows="5"></textarea>
+					</div>
+					<div class="6u 12u$(small)">
+						<input type="checkbox" id="demo-copy" name="demo-copy">
+						<label for="demo-copy">Email me a copy</label>
+					</div>
+					<div class="6u$ 12u$(small)">
+						<input type="checkbox" id="demo-human" name="demo-human" checked>
+						<label for="demo-human">I'm not a robot</label>
 					</div>
 					<ul class="actions">
-						<li><a href="" class="button submit">Send Message</a></li>
+						<li><a href="" class="button submit">Submit!</a></li>
 					</ul>
 				</form>
 			</section>
