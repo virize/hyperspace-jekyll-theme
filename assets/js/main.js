@@ -216,7 +216,7 @@
 					popupCloserText: '',
 					popupLoaderText: '',
 					selector: '.work-item a.image',
-					usePopupCaption: false,
+					usePopupCaption: true,
 					usePopupDefaultStyling: false,
 					usePopupEasyClose: false,
 					usePopupNav: true,
