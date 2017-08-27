@@ -38,7 +38,7 @@ title: Hyperspace by HTML5 UP
 <!-- One -->
 <section id="one" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="images/SocialEyez.png" alt="" data-position="center center" /></a>
+		<a href="#" class="image"><img src="images/SocialEyez.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Social-Eyez</h2>
@@ -50,7 +50,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Feugiat consequat</h2>
@@ -62,7 +62,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Ultricies aliquam</h2>
@@ -85,6 +85,12 @@ title: Hyperspace by HTML5 UP
 		<div class="row">
 			<article class="4u 12u$(small) work-item">
 				<a href="images/SocialEyez.png" class="image fit thumb"><img src="images/pic01.jpg" title="Testing!" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/pic02.jpg" class="image fit thumb"><img src="images/pic02.jpg" title="Hello!" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/pic02.jpg" class="image fit thumb"><img src="images/pic03.jpg" title="Amazing captions!" /></a>
 			</article>
 		</div>
 		<ul class="actions">
@@ -130,9 +136,9 @@ title: Hyperspace by HTML5 UP
 					<li>
 						<h3>Social</h3>
 						<ul class="icons">
-							<li><a href="https://www.etsy.com/ca/shop/Virize" class="fa-etsy"><span class="label">Etsy</span></a></li>
-							<li><a href="https://www.instagram.com/virizeze" class="fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.etsy.com/ca/shop/Virize" class="fa-shopping-bag"><span class="label">Etsy</span></a></li>
 							<li><a href="https://www.facebook.com/VirizeArt" class="fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/virizeze" class="fa-instagram"><span class="label">Instagram</span></a></li>
 							<li><a href="https://github.com/virize" class="fa-github"><span class="label">GitHub</span></a></li>
 							<li><a href="https://www.linkedin.com/in/jenniferhiew" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
 							<li><a href="http://virize.tumblr.com" class="fa-tumblr"><span class="label">Tumblr</span></a></li>
