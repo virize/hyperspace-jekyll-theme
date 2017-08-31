@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Hapa Collaborative: 'Why I Design'"
+title:  "Moving Images: Hapa Collaborative & 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 permalink: "hapa.html"
 categories: projects
@@ -10,7 +10,7 @@ categories: projects
 <div id="gallery">
 	<div class="row">
   		<article class="12u$(small) work-item">
-			<a href="https://youtu.be/6x3JOFMUlPs" data-poptrox="youtube,1280x720" class="image fit thumb"><img src="images/project-thumbnails/HAPA.png" title="Hapa Collaborative: 'Why I Design'" /></a>
+			<a href="https://youtu.be/6x3JOFMUlPs" data-poptrox="youtube,1280x720" class="image fit thumb"><img src="images/project-thumbnails/HAPA.png" title="Moving Images: Hapa Collaborative & 'Why I Design'" /></a>
 		</article>
 	</div>
 </div>
