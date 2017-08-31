@@ -54,9 +54,10 @@ title: Jennifer Hiew - Portfolio
 		<div class="content">
 			<div class="inner">
 				<h2>Hapa Collaborative: "Why I Design"</h2>
-				<p> An interview documentary style film made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT) featuring local landscape architecture firm Hapa Collaborative</p>
+				<p> An interview documentary style film made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT) featuring local landscape architecture firm Hapa Collaborative.</p>
 				<ul class="actions">
-					<li><a href="hapa.html" class="button">Learn more</a></li>
+					<li><a href="{{ site.baseurl }}{% post_url 2010-07-21-name-of-post %}"
+ class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
