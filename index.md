@@ -38,7 +38,7 @@ title: Jennifer Hiew - Portfolio
 <!-- One -->
 <section id="one" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="images/SocialEyez.png" alt="" data-position="50% 50%" /></a>
+		<a href="#" class="image"><img src="images/project-thumbnails/SocialEyez.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Social-Eyez</h2>
@@ -50,23 +50,23 @@ title: Jennifer Hiew - Portfolio
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="50% 50%" /></a>
+		<a href="#" class="image"><img src="images/project-thumbnails/HAPA.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Hapa Collaborative</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Hapa Collaborative: "Why I Design"</h2>
+				<p> An interview documentary style film made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT) featuring local landscape architecture firm Hapa Collaborative</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="hapa.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="50% 50%" /></a>
+		<a href="#" class="image"><img src="images/project-thumbnails/lululemon.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Lululemon Experience Redesign</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Lululemon Web Experience Redesign</h2>
+				<p>A project in UX/UI design focusing on redesigning Lululemon's existing product page and recreating the profile account experience to decrease online sales returns, to better educate customers about Lululemon products, and to realign Lululemon's competent in-store experience to their online presence.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
@@ -84,7 +84,7 @@ title: Jennifer Hiew - Portfolio
 		<h2>Illustrations</h2>
 		<div class="row">
 			<article class="4u 12u$(small) work-item">
-				<a href="images/SocialEyez.png" class="image fit thumb"><img src="images/pic01.jpg" title="Testing!" /></a>
+				<a href="images/project-thumbnails/SocialEyez.png" class="image fit thumb"><img src="images/pic01.jpg" title="Testing!" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
 				<a href="images/pic02.jpg" class="image fit thumb"><img src="images/pic02.jpg" title="Hello!" /></a>
