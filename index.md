@@ -38,7 +38,7 @@ title: Jennifer Hiew - Portfolio
 <!-- One -->
 <section id="one" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="images/project-thumbnails/SocialEyez.png" alt="" data-position="50% 50%" /></a>
+		<a href="social-eyez.html" class="image"><img src="images/project-thumbnails/SocialEyez.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Social-Eyez</h2>
@@ -50,7 +50,7 @@ title: Jennifer Hiew - Portfolio
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/project-thumbnails/HAPA.png" alt="" data-position="50% 50%" /></a>
+		<a href="hapa.html" class="image"><img src="images/project-thumbnails/HAPA.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Hapa Collaborative & "Why I Design"</h2>
@@ -62,7 +62,7 @@ title: Jennifer Hiew - Portfolio
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="images/project-thumbnails/lululemon.png" alt="" data-position="50% 50%" /></a>
+		<a href="lululemon.html" class="image"><img src="images/project-thumbnails/lululemon.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Lululemon Web Experience Redesign</h2>
@@ -84,13 +84,22 @@ title: Jennifer Hiew - Portfolio
 		<h2>Illustrations</h2>
 		<div class="row">
 			<article class="4u 12u$(small) work-item">
-				<a href="images/project-thumbnails/SocialEyez.png" class="image fit thumb"><img src="images/pic01.jpg" title="Testing!" /></a>
+				<a href="images/illustrations/umbreon_starrynight(700px).png" class="image fit thumb"><img src="images/pic01.jpg" title="Starry Night" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/pic02.jpg" class="image fit thumb"><img src="images/pic02.jpg" title="Hello!" /></a>
+				<a href="images/illustrations/dragon_succulents(700px).png" class="image fit thumb"><img src="images/pic02.jpg" title="Dragons + Succulents" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/pic02.jpg" class="image fit thumb"><img src="images/pic03.jpg" title="Amazing captions!" /></a>
+				<a href="images/illustrations/commission_bannerbackgroundlogo(1500px).png" class="image fit thumb"><img src="images/pic03.jpg" title="The Gaming Pilgrimage Podcast social media banner [commission]" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/pattern_pokemonpond(800px).png" class="image fit thumb"><img src="images/pic01.jpg" title="Pond Life" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/birthdaycard_plum70(600px).png" class="image fit thumb"><img src="images/pic02.jpg" title="Golden Pig: Happy 70th" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/pic03.jpg" title="Tactician" /></a>
 			</article>
 		</div>
 		<ul class="actions">
