@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Lululemon Web Experience Redesign"
+title:  "Interactive Objects and Environments: Lululemon Web Experience Redesign"
 date:   2016-04-15 12:00:00 -0800
 permalink: "lululemon.html"
 categories: projects
@@ -10,7 +10,7 @@ categories: projects
 <div id="gallery">
 	<div class="row">
   		<article class="12u$(small) work-item">
-			<a href="https://youtu.be/3pfAGyOfP54" data-poptrox="youtube,1280x720" class="image fit thumb"><img src="images/project-thumbnails/lululemon.png" title="Lululemon Web Experience Redesign" /></a>
+			<a href="https://youtu.be/3pfAGyOfP54" data-poptrox="youtube,1280x720" class="image fit thumb"><img src="images/project-thumbnails/lululemon.png" title="Interactive Objects and Environments: Lululemon Web Experience Redesign" /></a>
 		</article>
 	</div>
 </div>
