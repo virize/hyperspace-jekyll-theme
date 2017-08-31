@@ -53,7 +53,7 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Feugiat consequat</h2>
+				<h2>Hapa Collaborative</h2>
 				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
@@ -65,7 +65,7 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Ultricies aliquam</h2>
+				<h2>Lululemon Experience Redesign</h2>
 				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
@@ -106,7 +106,7 @@ title: Hyperspace by HTML5 UP
 <section id="three" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Contact</h2>
-		<p>Want to know more or like what you see? Send me a message and I'll get back to you within 24 hours!</p>
+		<p>Want to know more or have an inquiry? Send me a message and I'll get back to you within 24 hours!</p>
 		<div class="split style1">
 			<section>
 				<form method="post" action="https://formspree.io/jenhiew21@gmail.com"
