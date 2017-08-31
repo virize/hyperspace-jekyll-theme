@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Hapa Collaborative: "Why I Design""
-date:   2016-12-05 12:00:00 -0800
+date:   2016-12-02 12:00:00 -0800
 permalink: "hapa.html"
 ---
 <!-- video link -->
