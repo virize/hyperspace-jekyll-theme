@@ -94,7 +94,7 @@ title: Jennifer Hiew - Portfolio
 			</article>
 		</div>
 		<ul class="actions">
-			<li><a href="#" class="button">View more</a></li>
+			<li><a href="illustrations.html" class="button">View more</a></li>
 		</ul>
 	</div>
 </section>
