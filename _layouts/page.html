@@ -41,14 +41,60 @@
 							{{ content }}
 						</div>
 					</section>
-
 			</div>
 
+		<!-- Contact Form -->
+		<section class="wrapper style1 fade-up">
+		<div class="inner">
+			<h2>Contact</h2>
+			<p>Want to know more or have an inquiry? Send me a message and I'll get back to you within 24 hours!</p>
+			<div class="split style1">
+				<section>
+					<form method="post" action="https://formspree.io/jenhiew21@gmail.com"
+      method="POST">
+						<div class="field half first">
+							<label for="name">Name</label>
+							<input type="text" name="name" id="name" placeholder="First Last"/>
+						</div>
+						<div class="field half">
+							<label for="email">Email</label>
+							<input type="text" name="_replyto" id="email" placeholder="youremail@example.com"/>
+						</div>
+						<div class="field">
+							<label for="message">Message</label>
+							<textarea name="message" id="message" placeholder="Enter your message" rows="5"></textarea>
+						</div>
+						<ul class="actions">
+							<li><input type="submit" value="Submit!" class="button submit" /></li>
+						</ul>
+					</form>
+				</section>
+				<section>
+					<ul class="contact">
+						<li>
+							<h3>Resume</h3>
+							<a href="https://drive.google.com/file/d/0B1bx4u1-L6aOYkROMDU5bVhWeG8/view">View PDF</a>
+						</li>
+						<li>
+							<h3>Social</h3>
+							<ul class="icons">
+								<li><a href="https://www.etsy.com/ca/shop/Virize" class="fa-shopping-bag"><span class="label">Etsy</span></a></li>
+								<li><a href="https://www.facebook.com/VirizeArt" class="fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.instagram.com/virizeze" class="fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://github.com/virize" class="fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/jenniferhiew" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="http://virize.tumblr.com" class="fa-tumblr"><span class="label">Tumblr</span></a></li>
+								<li><a href="https://twitter.com/virizeze" class="fa-twitter"><span class="label">Twitter</span></a></li>
+							</ul>
+						</li>
+					</ul>
+				</section>
+			</div>
+		</div>
+		</section>
+		
 		<!-- Footer -->
 		
-		{% include footer.html %}
-		
-		<!--
 			<footer id="footer" class="wrapper alt">
 				<div class="inner">
 					<ul class="menu">
@@ -56,10 +102,9 @@
 					</ul>
 				</div>
 			</footer>
-		-->
 
 		<!-- Scripts -->
-		<!--
+
    	  	<script src="http://code.jquery.com/jquery-x.x.x.min.js"></script>
    	   	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
       		<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
@@ -67,14 +112,8 @@
       		<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.poptrox.min.js"></script>
       		<script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
       		<script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
-		-->
-
       		<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
-		
-		<!--
       		<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
-		-->
-		
       		<!--<script src="{{ site.url }}{{ site.baseurl }}/assets/js/lightbox-plus-jquery.js"></script>-->
 	</body>
 </html>
