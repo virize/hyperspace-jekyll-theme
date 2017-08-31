@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Interactive Objects and Environments: Lululemon Web Experience Redesign"
+title:  "Interactive Objects and Environments:<br />Lululemon Web Experience Redesign"
 date:   2016-04-15 12:00:00 -0800
 permalink: "lululemon.html"
 categories: projects
