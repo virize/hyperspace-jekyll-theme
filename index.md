@@ -44,7 +44,7 @@ title: Jennifer Hiew - Portfolio
 				<h2>Social-Eyez</h2>
 				<p>A speculative design project that explores the possibilities and theoretical applications of augmented reality (AR) in a projected future where people continue to adapt to an ever-increasing influx of digital information, at the expense of their long-term memory.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="social-eyez.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ title: Jennifer Hiew - Portfolio
 		<a href="#" class="image"><img src="images/project-thumbnails/HAPA.png" alt="" data-position="50% 50%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Hapa Collaborative: "Why I Design"</h2>
+				<h2>Hapa Collaborative & "Why I Design"</h2>
 				<p> An interview documentary style film made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT) featuring local landscape architecture firm Hapa Collaborative.</p>
 				<ul class="actions">
 					<li><a href="hapa.html" class="button">Learn more</a></li>
@@ -68,7 +68,7 @@ title: Jennifer Hiew - Portfolio
 				<h2>Lululemon Web Experience Redesign</h2>
 				<p>A project in UX/UI design focusing on redesigning Lululemon's existing product page and recreating the profile account experience to decrease online sales returns, to better educate customers about Lululemon products, and to realign Lululemon's competent in-store experience to their online presence.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="lululemon.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
