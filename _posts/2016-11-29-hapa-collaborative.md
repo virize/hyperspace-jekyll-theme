@@ -9,9 +9,9 @@ permalink: "hapa.html"
 
 <div id="gallery">
   <div class="row">
-		<article class="12u$ work-item">
-        <a href="https://youtu.be/6x3JOFMUlPs" data-poptrox="youtube,1280x720"><img src="images/project-thumbnails/HAPA.png" /></a>
-	  </article>
+  	<article class="12u$(small) work-item">
+		<a href="https://youtu.be/6x3JOFMUlPs" data-poptrox="youtube,1280x720" class="image fit thumb"><img src="images/project-thumbnails/HAPA.png" /></a>
+	</article>
 	</div>
 </div>
 
