@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Moving Images: Hapa Collaborative & 'Why I Design'"
+title:  "Moving Images:<br />Hapa Collaborative & 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 permalink: "hapa.html"
 categories: projects
