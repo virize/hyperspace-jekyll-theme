@@ -2,10 +2,8 @@
 layout: page
 title:  "Hapa Collaborative: "Why I Design""
 date:   2016-12-03 12:00:00 -0800
-permalink: hapa.html
+permalink: "hapa.html"
 ---
-<!-- video link -->
-
 <b>THE PROJECT:</b>  Made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT), the team interviewed local landscape architecture firm Hapa Collaborative, highlighting why they design as well as some of their various projects and installations within the city of Vancouver in a documentary style film.
 
 <b>TEAM:</b> Jennifer Hiew, Phoebe Lim, Michelle Ng, Grant Zou
