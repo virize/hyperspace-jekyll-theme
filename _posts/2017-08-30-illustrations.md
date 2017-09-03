@@ -20,16 +20,16 @@ categories: illustrations
 				<a href="images/illustrations/commission_bannerbackgroundlogo(1500px).png" class="image fit thumb"><img src="images/illustration-thumbnails/commission_bannerbackgroundlogo(500px).png" title="The Gaming Pilgrimage Podcast social media banner [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/commission_charactercomps1(1200px).png" class="image fit thumb"><img src="images/illustration-thumbnails/viri_notebook(500px).png" title="The hosts of The Gaming Pilgrimage Podcast in RPG combat poses [commission]" /></a>
+				<a href="images/illustrations/commission_charactercomps1(1200px).png" class="image fit thumb"><img src="images/illustration-thumbnails/commission_charactercomps1(500px).png" title="The hosts of The Gaming Pilgrimage Podcast in RPG combat poses [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/commission_charactercomps2(1200px).png" class="image fit thumb"><img src="images/illustration-thumbnails/viri_notebook(500px).png" title="The hosts of The Gaming Pilgrimage Podcast in RPG combat poses [commission]" /></a>
+				<a href="images/illustrations/commission_charactercomps2(1200px).png" class="image fit thumb"><img src="images/illustration-thumbnails/commission_charactercomps2(500px).png" title="The hosts of The Gaming Pilgrimage Podcast in RPG combat poses [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/commission_spiderwaifu(1000px).png" class="image fit thumb"><img src="images/illustration-thumbnails/viri_notebook(500px).png" title="Rachnera Arachnera, from Monster Musume [commission]" /></a>
+				<a href="images/illustrations/commission_spiderwaifu(1000px).png" class="image fit thumb"><img src="images/illustration-thumbnails/commission_spiderwaifu(500px).png" title="Rachnera Arachnera, from Monster Musume [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/pattern_pokemonpond(800px).png" class="image fit thumb"><img src="images/illustration-thumbnails/viri_notebook(500px).png" title="Pond Life" /></a>
+				<a href="images/illustrations/pattern_pokemonpond(800px).png" class="image fit thumb"><img src="images/illustrations/pattern_pokemonpond(800px).png" title="Pond Life" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
 				<a href="images/illustrations/birthdaycard_plum70(600px).png" class="image fit thumb"><img src="images/illustration-thumbnails/viri_notebook(500px).png" title="Golden Pig: Happy 70th" /></a>
