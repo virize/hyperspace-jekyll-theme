@@ -41,7 +41,7 @@ categories: illustrations
 				<a href="images/illustrations/commission_genji-icon(500px)(background-sig).png" class="image fit thumb"><img src="images/illustrations/commission_genji-icon(500px)(background-sig).png" title="Genji in business casual dress [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/pic03.jpg" title="Tactician" /></a>
+				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/pic03.jpg" title="Viri, the Tactician" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
 				<a href="images/illustrations/valentines_youremycutiefly(600px).png" class="image fit thumb"><img src="images/pic03.jpg" title="You're my Cutiefly" /></a>
