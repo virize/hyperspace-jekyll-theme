@@ -146,7 +146,7 @@ title: Jennifer Hiew - Portfolio
 					<li>
 						<h3>Social</h3>
 						<ul class="icons">
-							<li><a href="https://sites.google.com/view/virize-commissions/home" class="fa-usd"><span class="label">Commissions</span></a></li>
+							<li><a href="https://sites.google.com/view/virize-commissions/home" class="fa-paint-brush"><span class="label">Commissions</span></a></li>
 							<li><a href="https://www.etsy.com/ca/shop/Virize" class="fa-shopping-bag"><span class="label">Etsy</span></a></li>
 							<li><a href="https://www.facebook.com/VirizeArt" class="fa-facebook"><span class="label">Facebook</span></a></li>
 							<li><a href="https://www.instagram.com/virizeze" class="fa-instagram"><span class="label">Instagram</span></a></li>
