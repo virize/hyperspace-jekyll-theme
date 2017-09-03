@@ -84,22 +84,22 @@ title: Jennifer Hiew - Portfolio
 		<h2>Illustrations</h2>
 		<div class="row">
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/umbreon_starrynight(700px).png" class="image fit thumb"><img src="images/pic01.jpg" title="Starry Night" /></a>
+				<a href="images/illustrations/umbreon_starrynight(700px).png" class="image fit thumb"><img src="images/illustration-thumbnails/umbreon_starrynight(500px).png" title="Starry Night" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/dragon_succulents(700px).png" class="image fit thumb"><img src="images/pic02.jpg" title="Dragons + Succulents" /></a>
+				<a href="images/illustrations/dragon_succulents(700px).png" class="image fit thumb"><img src="images/illustration-thumbnails/dragon_succulents(500px).png" title="Dragons + Succulents" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/commission_bannerbackgroundlogo(1500px).png" class="image fit thumb"><img src="images/pic03.jpg" title="The Gaming Pilgrimage Podcast social media banner [commission]" /></a>
+				<a href="images/illustrations/commission_bannerbackgroundlogo(1500px).png" class="image fit thumb"><img src="images/illustration-thumbnails/commission_bannerbackgroundlogo(500px).png" title="The Gaming Pilgrimage Podcast social media banner [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/pattern_pokemonpond(800px).png" class="image fit thumb"><img src="images/pic01.jpg" title="Pond Life" /></a>
+				<a href="images/illustrations/pattern_pokemonpond(800px).png" class="image fit thumb"><img src="images/illustrations/pattern_pokemonpond(800px).png" title="Pond Life" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/birthdaycard_plum70(600px).png" class="image fit thumb"><img src="images/pic02.jpg" title="Golden Pig: Happy 70th" /></a>
+				<a href="images/illustrations/birthdaycard_plum70(600px).png" class="image fit thumb"><img src="images/illustration-thumbnails/umbreon_starrynight(500px).png" title="Golden Pig: Happy 70th" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/pic03.jpg" title="Tactician" /></a>
+				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/illustration-thumbnails/umbreon_starrynight(500px).png" title="Tactician" /></a>
 			</article>
 		</div>
 		<ul class="actions">
