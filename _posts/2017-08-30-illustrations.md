@@ -23,7 +23,7 @@ categories: illustrations
 				<a href="images/illustrations/commission_charactercomps1(1200px).png" class="image fit thumb"><img src="images/pic03.jpg" title="The hosts of The Gaming Pilgrimage Podcast in RPG combat poses [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/commission_charactercomps2(1200px).png" class="image fit thumb"><img src="images/pic01.jpg" title="One of the hosts of The Gaming Pilgrimage Podcast and his partner in RPG combat poses [commission]" /></a>
+				<a href="images/illustrations/commission_charactercomps2(1200px).png" class="image fit thumb"><img src="images/pic01.jpg" title="The hosts of The Gaming Pilgrimage Podcast in RPG combat poses [commission]" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
 				<a href="images/illustrations/commission_spiderwaifu(1000px).png" class="image fit thumb"><img src="images/pic01.jpg" title="Rachnera Arachnera, from Monster Musume [commission]" /></a>
