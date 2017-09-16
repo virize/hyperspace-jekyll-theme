@@ -64,5 +64,29 @@ categories: illustrations
 			<article class="4u 12u$(small) work-item">
 				<a href="images/illustrations/gildedeeveelutions_leafeon(800px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Gilded Eeveelutions: Leafeon" /></a>
 			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/commission_charlie(900px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Charlie [commission]" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/viri_ref2015(2000px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Viri Reference v.2015" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/flightrising_seaweedscavenger(1000px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Seaweed Scavenger" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/flightrising_sialiabust(700px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Sialia" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/pad_shivadragon(1200px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Shiva, the Dragon" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/fallen_ref2015(2100px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Fallen Reference v.2015" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/lion_lionsdomain(600px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Lion's Domain" /></a>
+			</article>
+			<article class="4u 12u$(small) work-item">
+				<a href="images/illustrations/fractal_breathless(1920px).png" class="image fit thumb"><img src="images/illustration-thumbnails/gildedeeveelutions_leafeon(500px).png" title="Breathless" /></a>
+			</article>
 		</div>
 </div>
