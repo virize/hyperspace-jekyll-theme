@@ -96,10 +96,10 @@ title: Jennifer Hiew - Portfolio
 				<a href="images/illustrations/pattern_pokemonpond(800px).png" class="image fit thumb"><img src="images/illustrations/pattern_pokemonpond(800px).png" title="Pond Life" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/birthdaycard_plum70(600px).png" class="image fit thumb"><img src="images/illustration-thumbnails/umbreon_starrynight(500px).png" title="Golden Pig: Happy 70th" /></a>
+				<a href="images/illustrations/birthdaycard_plum70(600px).png" class="image fit thumb"><img src="images/illustration-thumbnails/birthdaycard_plum70(500px).png" title="Golden Pig: Happy 70th" /></a>
 			</article>
 			<article class="4u 12u$(small) work-item">
-				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/illustration-thumbnails/umbreon_starrynight(500px).png" title="Tactician" /></a>
+				<a href="images/illustrations/viri_tactician(800px).png" class="image fit thumb"><img src="images/illustration-thumbnails/viri_tactician(500px).png" title="Tactician" /></a>
 			</article>
 		</div>
 		<ul class="actions">
