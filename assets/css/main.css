@@ -4172,7 +4172,7 @@
 				-webkit-box-sizing: content-box;
 				-ms-box-sizing: content-box;
 				box-sizing: content-box;
-				border-radius: 100%;
+				border-radius: 0;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				content: '\f00d';
 				display: block;
