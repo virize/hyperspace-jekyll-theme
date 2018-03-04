@@ -26,7 +26,9 @@ title: Jennifer Hiew - Portfolio
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>Jennifer Hiew</h1>
-		<p>A creative and innovative 4th year SIAT student at SFU's School of Interactive Arts and Technology with a background 		in graphic design and illustration. Enthusiastic about learning and designing meaningful visuals and interactions to 			create pleasurable user experiences.</p>
+		<p>With a background in graphic design and illustration, Jennifer designs meaningful visuals and interactions to create pleasurable user experiences and memorable brand identities. She is an avid artist who enjoys engaging with anything related to technology, design, and the arts.
+
+Jennifer holds a B.A. in Interactive Arts and Technology from Simon Fraser University with a focus on interdisciplinary design, including user experience (UX), user interface (UI), and visual design.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
